@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cosmeeeen
+- 👀 I’m interested in anything programming related 🥰
+- 🌱 I’m currently learning advanced frontend
+- 💞️ I’m looking to collaborate on any interesting project (game / web development) 
+- 📫 iliemcosmin@yahoo.ro
