@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cosmeeeen
+- 👨🏻‍💻 Frontend + CMS Developer
 - 👀 I’m interested in anything programming related 🥰
 - 🌱 I’m currently learning advanced frontend
 - 💞️ I’m looking to collaborate on any interesting project (game / web development) 
 - 🔍 You can see my business card website at http://cosmeen.000webhostapp.com 
-- 🦾 If you take the time to visit my website, click on the computer and try beating the P5.js ai at tic-tac-toe 
 - 📫 You can reach me on any social platform, or at iliemcosmin@yahoo.ro
