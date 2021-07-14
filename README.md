@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Cosmeeeen
 - 👨🏻‍💻 Frontend + CMS Developer
-- 👀 I’m interested in anything programming related 🥰
 - 🌱 I’m currently learning advanced frontend
-- 💞️ I’m looking to collaborate on any interesting project (game / web development) 
 - 🔍 You can see my business card website at http://cosmin.vercel.app 
 - 📫 You can reach me on any social platform, or at iliemcosmin@yahoo.ro
